@@ -1,0 +1,9 @@
+-ml -w -egdemo --L
+"--Sdel gdemo.obj"
+"--Sdel gdemo.cpp"
+
+2k.rh 2kkey.rh note.rh
+
+gdemo
+
+2k.lib graphics.lib

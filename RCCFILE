@@ -1,0 +1,9 @@
+-ml -w -eexample --L
+"--Sdel example.obj"
+"--Sdel example.cpp"
+
+2k.rh 2kkey.rh
+
+example
+
+2k.lib

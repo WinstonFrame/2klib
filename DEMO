@@ -1,0 +1,9 @@
+-ml -w -edemo --L
+"--Sdel demo.obj"
+"--Sdel demo.cpp"
+
+2k.rh 2kkey.rh note.rh
+
+demo
+
+2k.lib
